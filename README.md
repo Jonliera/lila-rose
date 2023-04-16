@@ -1,8 +1,17 @@
-Capstone Project
+### MVP Objectives:
 
-I will develop a Website for a client with a Hat Business. It will be a songle page and will include e-commerce. The clients business name is Lila & Rose.
+- Build a store front website that allows a user to create and account and log -in in a safely manner.
+- Once inside their accounts a user can choose a hat from the different options, maybe 5 types of hats. After choosing a hat the user will be able to add different features to the hat such as : colors, items,etc.
 
-In this project I will be implementing REACT and using Next.js as my framework of choice
+- The user will be able to customize a hat and save it in their cart
+
+- Upload photos of the users custom hats to each account
+
+- I will use Next.js as my framework for React. For the database I'm looking into supabase and for styling, my library of choice will be MUI. I will use Typescript ofr the whole project.
+
+### Stretch Goals:
+
+- Connect the store with a third party client for payment processing
 
 For this code Review I will be researching on how to use next.js, typescript and MUI.
 
