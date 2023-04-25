@@ -21,3 +21,8 @@ For this code Review I will be researching on how to use next.js, typescript and
 
 - 6:30: Getting Started with Next.js
 - 9:30 Watching Documentation on how to implement Next.js and MUI.
+
+#### Friday 04/21
+
+- Fundamental Next.js Api and Patterns video (1:26 min)
+- The beginner's guide to React (2:35 min)
